@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Bl.Rentas;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -37,7 +38,7 @@ namespace Tienda_de_Celulares
 
         private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            var formClientes = new FormClientes();
+            var formClientes = new Clientes();
             formClientes.MdiParent = this;
             formClientes.Show();
         }
@@ -52,6 +53,13 @@ namespace Tienda_de_Celulares
         private void FormMenu_Load(object sender, EventArgs e)
         {
             Login();
+        }
+
+        private void facturaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var formFactura = new FormFactura();
+            formFactura.MdiParent = this;
+            formFactura.Show();
         }
     }
 }

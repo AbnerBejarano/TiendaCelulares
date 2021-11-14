@@ -1,6 +1,6 @@
 ﻿namespace Tienda_de_Celulares
 {
-    partial class FormRentas
+    partial class Clientes
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // FormRentas
+            // FormClientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "FormRentas";
-            this.Text = "Rentas";
+            this.Name = "FormClientes";
+            this.Text = "Clientes";
             this.ResumeLayout(false);
 
         }

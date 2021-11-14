@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Tienda_de_Celulares
 {
-    public partial class FormRentas : Form
+    public partial class Clientes : Form
     {
-        public FormRentas()
+        public Clientes()
         {
             InitializeComponent();
         }

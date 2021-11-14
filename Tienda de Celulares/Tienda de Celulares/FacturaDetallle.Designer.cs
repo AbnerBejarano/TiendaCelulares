@@ -1,6 +1,6 @@
 ﻿namespace Tienda_de_Celulares
 {
-    partial class FormRentas
+    partial class FacturaDetallle
     {
         /// <summary>
         /// Required designer variable.
@@ -28,17 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // FormRentas
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "FormRentas";
-            this.Text = "Rentas";
-            this.ResumeLayout(false);
-
+            this.Text = "FacturaDetallle";
         }
 
         #endregion
