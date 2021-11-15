@@ -61,5 +61,19 @@ namespace Tienda_de_Celulares
             formFactura.MdiParent = this;
             formFactura.Show();
         }
+
+        private void reporteDeProductosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var FormReporteProducto = new FormReporteProducto();
+            FormReporteProducto.MdiParent = this;
+            FormReporteProducto.Show();
+        }
+
+        private void reporteDeFacturasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var FormReporteFactura = new FormReporteFactura();
+            FormReporteFactura.MdiParent = this;
+            FormReporteFactura.Show();
+        }
     }
 }
