@@ -1,0 +1,20 @@
+C:\Users\JC\OneDrive\Documents\Tareas\L3\Proyecto Tienda Celulares\Tienda de Celulares\Bl.Rentas\bin\Debug\Bl.Rentas.dll
+C:\Users\JC\OneDrive\Documents\Tareas\L3\Proyecto Tienda Celulares\Tienda de Celulares\Bl.Rentas\bin\Debug\Bl.Rentas.pdb
+C:\Users\JC\OneDrive\Documents\Tareas\L3\Proyecto Tienda Celulares\Tienda de Celulares\Bl.Rentas\obj\Debug\Bl.Rentas.dll
+C:\Users\JC\OneDrive\Documents\Tareas\L3\Proyecto Tienda Celulares\Tienda de Celulares\Bl.Rentas\obj\Debug\Bl.Rentas.pdb
+C:\Users\JC\OneDrive\Documents\Tareas\L3\Proyecto Tienda Celulares\Tienda de Celulares\Bl.Rentas\obj\Debug\Bl.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\JC\OneDrive\Documents\Tareas\L3\Proyecto Tienda Celulares\Tienda de Celulares\Bl.Rentas\bin\Debug\Bl.Rentas.dll.config
+C:\Users\JC\OneDrive\Documents\Tareas\L3\Proyecto Tienda Celulares\Tienda de Celulares\Bl.Rentas\bin\Debug\EntityFramework.dll
+C:\Users\JC\OneDrive\Documents\Tareas\L3\Proyecto Tienda Celulares\Tienda de Celulares\Bl.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JC\OneDrive\Documents\Tareas\L3\Proyecto Tienda Celulares\Tienda de Celulares\Bl.Rentas\bin\Debug\EntityFramework.xml
+C:\Users\JC\OneDrive\Documents\Tareas\L3\Proyecto Tienda Celulares\Tienda de Celulares\Bl.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Christian Flores\Desktop\1600-LENG. DE PROGRAMAC III\ProyectoU1\Tienda de Celulares\Bl.Rentas\obj\Debug\BL.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\Christian Flores\Desktop\1600-LENG. DE PROGRAMAC III\ProyectoU1\Tienda de Celulares\Bl.Rentas\obj\Debug\Bl.Rentas.FormFactura.resources
+C:\Users\Christian Flores\Desktop\1600-LENG. DE PROGRAMAC III\ProyectoU1\Tienda de Celulares\Bl.Rentas\obj\Debug\BL.Rentas.csproj.GenerateResource.Cache
+C:\Users\Christian Flores\Desktop\1600-LENG. DE PROGRAMAC III\ProyectoU1\Tienda de Celulares\Bl.Rentas\obj\Debug\Bl.Rentas.dll
+C:\Users\Christian Flores\Desktop\1600-LENG. DE PROGRAMAC III\ProyectoU1\Tienda de Celulares\Bl.Rentas\obj\Debug\Bl.Rentas.pdb
+C:\Users\Christian Flores\Desktop\Tienda de Celulares\Tienda de Celulares\Bl.Rentas\obj\Debug\BL.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\Christian Flores\Desktop\Tienda de Celulares\Tienda de Celulares\Bl.Rentas\obj\Debug\Bl.Rentas.FormFactura.resources
+C:\Users\Christian Flores\Desktop\Tienda de Celulares\Tienda de Celulares\Bl.Rentas\obj\Debug\BL.Rentas.csproj.GenerateResource.Cache
+C:\Users\Christian Flores\Desktop\Tienda de Celulares\Tienda de Celulares\Bl.Rentas\obj\Debug\Bl.Rentas.dll
+C:\Users\Christian Flores\Desktop\Tienda de Celulares\Tienda de Celulares\Bl.Rentas\obj\Debug\Bl.Rentas.pdb
